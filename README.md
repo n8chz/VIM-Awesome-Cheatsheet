@@ -122,6 +122,8 @@
 * ```Ctrl + wv``` - split window vertically
 * ```Ctrl + ww``` - switch windows
 * ```Ctrl + wq``` - quit a window
+* ```Ctrl + wc``` - close current window
+* ```Ctrl + wo``` - make current window only open window
 * ```Ctrl + wx``` - exchange current window with next one
 * ```Ctrl + w=``` - make all windows equal height & width
 * ```Ctrl + wh``` - move cursor to the left window (vertical split)
